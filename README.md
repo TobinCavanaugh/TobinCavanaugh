@@ -21,6 +21,7 @@ Languages:
 - C#
 - Java
 - Shallow understanding of C++
+- Learning C
 ```
 ```
 Skills:
