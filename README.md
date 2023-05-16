@@ -21,7 +21,9 @@ Languages:
 - C#
 - Java
 - Shallow understanding of C++
-- Learning C
+- Intermediate / Proficient C
+- Learning Esperanto
+- High School Spanish ()
 ```
 ```
 Skills:
