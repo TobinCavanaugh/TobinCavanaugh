@@ -19,9 +19,9 @@ What I want to do:
 Languages:
 - English
 - C#
+- C
 - Java
 - Shallow understanding of C++
-- Intermediate / Proficient in C
 - Learning Esperanto
 - High School Spanish (The best way to learn any language)
 ```
