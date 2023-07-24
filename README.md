@@ -31,7 +31,6 @@ Skills:
 - Good problem solver
 - Telling bad jokes
 ```
-
 ```
 Favorite Things:
 - Place: The cabin in the woods that my grandpa built
