@@ -37,7 +37,7 @@ Favorite Things:
 - Music: My tastes switch a lot, but I like DIIV, Macroblank, Slowdive, Alvvays, Masayoshi Takanaka, and Maykretch to name a few.
 - Physical Artist: Zdzisław Beksiński, Syd Mead, John Berkey
 - Game: Skyrim, Dark and Darker, Subnautica, Terraria
-- Hobbies: Weight lifting, programming, doing stuff with my cousins, 3D modelling and design, and gaming
+- Hobbies: Weight lifting, programming, doing stuff with my cousins, 3D modeling and design, and gaming
 ```
 
 ![Image of my family's cabin](https://github.com/TobinCavanaugh/TobinCavanaugh/raw/main/Cabin.png)
