@@ -40,4 +40,4 @@ Favorite Things:
 - Hobbies: Weight lifting, programming, doing stuff with my cousins, 3D modeling and design, and gaming
 ```
 
-![Image of my family's cabin](https://github.com/TobinCavanaugh/TobinCavanaugh/raw/main/Cabin-25%.png)
+![Image of my family's cabin](https://raw.githubusercontent.com/TobinCavanaugh/TobinCavanaugh/main/Cabin-25%25.png)
