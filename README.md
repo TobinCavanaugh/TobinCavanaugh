@@ -21,6 +21,7 @@ Languages:
 - C#
 - C
 - Java
+- Very limited understanding of x86 asm
 - Shallow understanding of C++
 - Learning Esperanto
 - High School Spanish (The best way to learn any language)
