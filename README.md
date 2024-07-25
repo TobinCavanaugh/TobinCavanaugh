@@ -1,7 +1,7 @@
 ## I'm Tobin Cavanaugh
 #### Portfolio & Resume : https://tobincavanaugh.github.io/
 
-Simplicity is the goal
+Simplicity is the goal, aesthetic is the byproduct.
 
 ```
 Goals:
