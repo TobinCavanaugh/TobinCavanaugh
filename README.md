@@ -11,6 +11,7 @@ Goals:
     - Including custom "infinite canvas" window manager
 [ ] : Write my own programming language. (2026+)
 [ ] : Write my own markup and styling language. (2025+)
+[ ] : Implement my own cross platform C standard library (poser). (2024+)
 [ ] : Spend more time with friends and at my cabin. (∞)
 
 [X] : Build a strong portfolio
