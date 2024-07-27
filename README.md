@@ -22,7 +22,7 @@ Goals:
 ```
 
 
-|The cabin built my my grandfather|
+|The cabin built my my grandpa|
 |:---:|
 |![Image of my family's cabin](https://raw.githubusercontent.com/TobinCavanaugh/TobinCavanaugh/main/Cabin-25%25.png)|
 
