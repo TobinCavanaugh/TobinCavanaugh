@@ -147,6 +147,4 @@
       <animate attributeName="opacity" values="0.6;0.1;0.6" dur="3s" repeatCount="indefinite"/>
     </circle>
   </g>
-</svg><svg xmlns="http://www.w3.org/2000/svg">
-    <ellipse rx="100" ry="100" />
 </svg>
